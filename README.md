@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtulmishraIT
 - 👀 I’m interested in Full Stack developer
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
