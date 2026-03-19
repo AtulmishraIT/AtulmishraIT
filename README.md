@@ -1,10 +1,61 @@
-- 👋 Hi, I’m @AtulmishraIT
-- 👀 I’m interested in Full Stack developer
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Atul Mishra
 
-<!---
-AtulmishraIT/AtulmishraIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full Stack Developer (MERN) | Aspiring AI Engineer  
+
+---
+
+## 💡 About Me
+
+- 💻 I build full-stack web applications using MERN stack  
+- 🤖 Currently learning Artificial Intelligence & Machine Learning  
+- 📊 Interested in Data Science, AI Projects & Real-world problem solving  
+- 🎯 Goal: Become a skilled AI Engineer and build impactful solutions  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Web Development
+- MongoDB, Express.js, React.js, Node.js  
+- HTML, CSS, JavaScript  
+
+### 🧠 AI / ML (Learning)
+- Python  
+- NumPy, Pandas  
+- Scikit-learn  
+- Basic Machine Learning Algorithms  
+
+---
+
+## 🚀 Projects
+
+### 🌐 MERN Projects
+- Full Stack Web Applications  
+- Authentication Systems  
+- Real-time Features using Socket.io  
+
+### 🤖 Python / AI Projects
+- Number Guessing Game (CLI + GUI)  
+- (More coming soon...)
+
+---
+
+## 📈 Currently Learning
+
+- Machine Learning Algorithms  
+- Deep Learning  
+- Building AI Projects  
+- Model Deployment  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (Add your link)
+- Email: (Add your email)
+
+---
+
+## ⚡ Fun Fact
+
+I started as a web developer and now exploring AI to build smarter applications 🚀
