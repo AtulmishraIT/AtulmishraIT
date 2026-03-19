@@ -51,8 +51,8 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: https://www.linkedin.com/in/atul-mishra-b05668308/
+- Email: theatulmishra7@gmail.com
 
 ---
 
